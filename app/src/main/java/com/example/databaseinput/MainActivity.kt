@@ -1,4 +1,4 @@
-gpackage com.example.databaseinput
+package com.example.databaseinput
 
 import android.app.DatePickerDialog
 import android.content.Context
