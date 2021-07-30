@@ -1,0 +1,3 @@
+include ':databaselibrary'
+include ':app'
+rootProject.name = "DatabaseInput"
